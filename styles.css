@@ -25,11 +25,11 @@ td:last-child {
 table{
     width:100%; font-family:Arial, sans-serif; font-size:16px;
     background-color: white;
-    color: #BE2414;
+    color: black;
     padding: 10px;
     border-radius: 8px; /* Separador vertical */
     height: 100% ;
-    width: 42%;
+    width: 48%;
 }
 p{
     margin: 5px;
