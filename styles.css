@@ -1,0 +1,40 @@
+body{
+    color: white;
+    margin:0;
+    padding: 20px; 
+    font-size:14px; 
+    font-weight:bold;   
+}
+.string {
+    color: #41914D;
+}
+td{
+   border-right: 1px solid #000000;
+    padding-left: 10px;   
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 25px;
+    border-right: 3px solid #000000;
+    height: 100% ; 
+}
+td:last-child {
+    border-right: none; /* Elimina el borde derecho del último td */
+}
+
+table{
+    width:100%; font-family:Arial, sans-serif; font-size:16px;
+    background-color: white;
+    color: #BE2414;
+    padding: 10px;
+    border-radius: 8px; /* Separador vertical */
+    height: 100% ;
+    width: 42%;
+}
+p{
+    margin: 5px;
+    font-family: "Consolas", "Courier New", monospace;
+    font-size: 15px;
+    color: #000000;
+}
+
