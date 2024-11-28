@@ -7,10 +7,11 @@ body{
 }
 .string {
     color: #41914D;
+    font-family: "Consolas", "Courier New", monospace;
 }
 td{
    border-right: 1px solid #000000;
-    padding-left: 10px;   
+    padding-left: 25px;   
     justify-content: center;
     flex-direction: column;
     align-items: center;
@@ -38,3 +39,6 @@ p{
     color: #000000;
 }
 
+.h{
+    padding-left: -10px;
+}
